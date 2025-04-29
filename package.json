@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AnkitaArya04/web-sockets#readme",
   "dependencies": {
-    "typescript": "^5.8.3"
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.8.3",
+    "ws": "^8.18.1"
   }
 }
