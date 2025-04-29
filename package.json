@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AnkitaArya04/web-sockets/issues"
   },
-  "homepage": "https://github.com/AnkitaArya04/web-sockets#readme"
+  "homepage": "https://github.com/AnkitaArya04/web-sockets#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
 }
